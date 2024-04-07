@@ -22,7 +22,7 @@ Thumb Joystick
 <p style="text-align:center;"><img src="images/Joy stick.jpg" width="1600" alt="Original"/></p>
 
 ## Executed Demo 
-The demo video is [here](https://www.youtube.com/watch?v=7yAw1nPareM). Welcome suggestions and questions
+The demo video is [here](https://www.youtube.com/watch?v=01gUj48ilqY). Welcome suggestions and questions
 
 
 
